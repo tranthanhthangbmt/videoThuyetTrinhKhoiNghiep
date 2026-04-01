@@ -1,19 +1,108 @@
 ﻿Slide 1: Giới thiệu (15 giây) 
 Người 1: "Kính chào Hội đồng Giám khảo. Em là Phạm Quỳnh Nhi, đại diện dự án USI18 đến từ Đại học Đông Á. Hôm nay, chúng em mang đến một giải pháp công nghệ giáo dục mang tên: Gia sư AI Toàn Năng. Sứ mệnh của dự án gói gọn trong một câu duy nhất: 'Cây Học Tập Cá Nhân Hóa: Tìm đúng bệnh – Trị đúng gốc'."
+
 Slide 2: Nỗi đau thị trường & Đặt vấn đề khoa học (40 giây) - Điểm nhấn thuyết phục 
 Người 1: "Thưa quý vị, nhìn vào giáo dục hiện nay, chúng ta đang mắc hội chứng 'Chữa ngọn'. Vấn đề cốt lõi nằm ở các hệ thống quản lý học tập (LMS) hiện hành. Các hệ thống này chỉ lưu trữ bài giảng theo dạng danh sách tuyến tính, ví dụ như Tuần 1, Tuần 2,. Dưới góc độ khoa học nhận thức, điều này gây ra hiện tượng 'Mù lòa nhận thức'. Tại sao? Vì khi một sinh viên học đến chương 5 và bế tắc, hệ thống cũ không thể chỉ ra các em đang bị hổng kiến thức tiên quyết nào từ chương 1 để quay lại ôn tập. Kiến thức bị phân mảnh khiến học sinh mất định hướng, còn phụ huynh tiêu tốn hàng triệu đồng học thêm mà vẫn mù mờ về năng lực thực tế của con,. Để giải quyết tận gốc, chúng ta bắt buộc phải trực quan hóa được tính kế thừa của tri thức!"
+
 Slide 3: Công nghệ lõi & Giải pháp đột phá (20 giây) 
 Người 1: "Để trị tận gốc căn bệnh đó, dự án của chúng em không dùng thư mục tĩnh lặng, mà ứng dụng công nghệ Đồ thị tri thức (Knowledge Graph),. Chúng em tự động chuyển hóa toàn bộ giáo trình thành một không gian 3D. Ở đó, mọi khái niệm của môn học được kết nối thành một mạng lưới logic, chỉ rõ phần nào là nền tảng, phần nào là kế thừa,. Công nghệ này hoàn toàn được bảo chứng bởi các nghiên cứu khoa học chuyên sâu năm 2026."
+
 Slide 4: Trình diễn giải pháp - Không gian thực hành (30 giây) 
 Người 1: "Mời quý vị xem cách hệ thống vận hành. Khi nhìn vào bản đồ này, người học sẽ thấy ngay một Tọa độ Tri thức: Nút màu Xanh là đã nắm vững, màu Đỏ là lỗ hổng cần vá ngay lập tức,. Đặc biệt, Gia sư AI của chúng em được thiết lập một kỷ luật thép: Khóa chặt đáp án. AI tuyệt đối không giải bài hộ,. Khi học sinh bế tắc, AI sẽ phân rã bài toán và đặt câu hỏi gợi mở, ép các em phải 'Vật lộn hiệu quả' để tự tư duy ra lối thoát,,. Đó chính là cách chúng em lấp lỗ hổng tri thức một cách bền vững."
+
 Slide 5: Trình diễn giải pháp - Vũ trụ tri thức 3D (30 giây) 
 Người 1: "Và đây chính là bức tranh toàn cảnh mà một người học nhìn thấy - một Vũ trụ tri thức 3D. Thay vì học mù mờ theo một danh sách dài, hệ thống liên tục đo lường và hiển thị thời gian thực qua bảng điều khiển năng lực: Nút kiến thức nào đã thông thạo, nút nào đang nhạt dần trong trí nhớ, và nút nào đang bị hổng. Với góc nhìn không gian này, chúng em biến việc học từ một quá trình thụ động thành một hành trình làm chủ bản thân minh bạch, giúp người học tự tin đi đúng hướng."
+
 Slide 6: Chân dung khách hàng & Phân phối giá trị (30 giây) 
 Người 1: "Giải pháp này không chỉ tốt cho người học, mà giải quyết bài toán cốt lõi cho cả 3 bên. Với Học sinh, các em có một gia sư riêng túc trực 24/7, giúp vá lỗ hổng tri thức mà không bao giờ bị áp lực hay phán xét. Với Phụ huynh - những người trả tiền, họ được cung cấp một bảng điều khiển minh bạch để theo dõi tiến độ thật của con, giúp tiết kiệm đến 70% chi phí so với việc thuê gia sư người thật. Và với Nhà trường, đây là công cụ chuyển đổi số hoàn hảo để cá nhân hóa việc giảng dạy trên quy mô lớn, cung cấp dữ liệu học lực chi tiết đến từng lớp."
+
 Slide 7: Ước tính Quy mô thị trường (35 giây) - Điểm nhấn tài chính 
 Người 1: "Về tiềm năng thương mại, chúng em đang nhắm vào một thị trường khổng lồ. Hãy làm một bài toán nhỏ về thị trường học thêm: Với 25 triệu học sinh - sinh viên tại Việt Nam, nếu mỗi em trung bình học 4 môn với chi phí chỉ 500 ngàn đồng/môn, tổng chi phí mỗi cá nhân là 2 triệu đồng. Điều này tạo ra một dung lượng thị trường (TAM) lên tới 50 Nghìn tỷ VNĐ. Mục tiêu thiết thực của dự án là chiếm lĩnh 10% thị phần này, tương đương doanh thu tiềm năng 5 Nghìn tỷ VNĐ - một cơ hội lợi nhuận cực kỳ hấp dẫn!"
+
 Slide 8: Mô hình Kinh doanh (30 giây) 
 Người 1: "Để khai thác thị trường đó, hệ sinh thái AIEdu xây dựng một mô hình kinh doanh đa dạng với 3 dòng doanh thu bền vững: Thứ nhất là phí Thuê bao (SaaS) từ học sinh muốn sử dụng tính năng Gia sư AI chuyên sâu. Thứ hai là doanh thu B2B từ việc bán bản quyền và tích hợp công cụ trực tiếp vào hệ thống LMS của các trường Đại học, trung tâm đào tạo. Và cuối cùng là hoa hồng từ Marketplace - nơi phân phối các khóa học và 'Cây tri thức' chuẩn hóa do chuyên gia tạo ra."
+
 Slide 9: Tầm nhìn & Lời kêu gọi hành động (20 giây) 
 Người 1: "Kính thưa Hội đồng, mục tiêu của USI18 không dừng lại ở một công cụ giải bài, mà là xây dựng một hệ sinh thái học tập thích ứng. Chúng em không định nghĩa lại giáo dục, mà hoàn thiện nó bằng cách lấp đầy những khoảng trống công nghệ hiện nay. Hãy quét mã QR trên màn hình để trải nghiệm nguyên mẫu của dự án. Cùng với USI18: 'Tìm đúng bệnh – Trị đúng gốc', hãy cùng chúng em tái định hình cách thế hệ tương lai học tập. Em xin chân thành cảm ơn sự lắng nghe của quý vị!"
+
+Người 2: Giờ hội đồng sẽ có một số câu hỏi. Câu 1: Sự khác biệt lớn nhất giữa Gia sư AI Toàn Năng và các ứng dụng như ChatGPT hay Photomath hiện nay là gì? 
+Người 1: Dạ thưa Ban giám khảo, sự khác biệt nằm ở triết lý "Chữa gốc" thay vì "Chữa ngọn"
+Các ứng dụng như ChatGPT hay Photomath hoạt động theo cơ chế "nhồi nhét đáp án" (Spoon-feeding) – học sinh đưa đề bài, AI nhả kết quả
+Hệ thống của chúng em được lập trình "kỷ luật thép" bằng phương pháp Socratic: Tuyệt đối không giải bài hộ
+Thay vào đó, AI sẽ phân rã bài toán, đặt câu hỏi gợi mở để đưa học sinh vào trạng thái "Vật lộn hiệu quả" (Productive Struggle), ép các em tự tìm ra lối thoát và tự tư duy
+
+Người 2: Câu 2: Theo mô hình của các bạn, ai là người trả tiền (Khách hàng) và ai là người sử dụng? Tại sao người trả tiền lại chịu rút ví? 
+Người 1: Khách hàng của chúng em chia làm hai luồng rõ rệt
+Thứ nhất (B2C) là Phụ huynh (độ tuổi 30-50 ở đô thị) – họ là người chi trả, còn học sinh là người sử dụng
+Phụ huynh sẵn sàng rút ví vì chúng em cung cấp cho họ sự minh bạch tuyệt đối qua Dashboard Cây Tri Thức, giúp họ không còn "mù mờ" về năng lực của con như khi thuê gia sư truyền thống
+Luồng thứ hai (B2B) là Nhà trường/Trung tâm giáo dục – họ mua hệ thống để quản trị dữ liệu học lực, giảm tỷ lệ trượt môn và chuẩn hóa kiểm định chất lượng đào tạo
+
+Người 2: Câu 3: Các bạn tạo ra "Cây tri thức" bằng cách nào? Liệu có phải tốn hàng ngàn giờ nhập liệu của giáo viên không? 
+Người 1: Hoàn toàn không ạ. Hệ thống của chúng em sở hữu tính năng Khởi tạo Ma thuật 1-chạm (Zero-Friction Auto-Graphing)
+Giảng viên chỉ cần tải lên file văn bản thô (Đề cương môn học, file PDF, txt)
+Hệ thống AI cốt lõi (NLP) sẽ tự động bóc tách các khái niệm, phân tích logic nhân quả và xuất ra một Cây Tri Thức không gian 3D chỉ trong vòng 60 giây
+
+Người 2: Câu 4: Dự án của các bạn nhắm tới đối tượng học sinh mất gốc. Vậy nếu các em nản và không chịu học thì sao? 
+Người 1: Để giải quyết việc này, chúng em áp dụng Khung Sinh - Điều khiển học (Bio-Cybernetics)
+Hệ thống mô phỏng một "Viên pin nhận thức" (BioBattery) của người học
+Khi nhận thấy học sinh đang cạn kiệt năng lượng, hệ thống sẽ từ chối giao bài tập khó, chủ động "khóa mềm" (Soft-lock) và khuyên các em nghỉ ngơi hoặc chuyển sang xem video hoạt hình giải trí
+Chúng em ưu tiên sự bền bỉ của não bộ hơn là tốc độ ép buộc hoàn thành bài học
+
+Người 2: Câu 5: Giai đoạn đầu (Phase 1), các bạn định mang sản phẩm này thử nghiệm ở môn học nào? 
+Người 1: Trong lộ trình 3 tháng đầu, chúng em sẽ triển khai bản thử nghiệm (Closed-Beta) ngay tại Khoa CNTT của Đại học Đông Á (Phân hiệu Đắk Lắk) với các môn học khối lượng logic nặng như: Thị giác máy tính, Trí tuệ Nhân tạo Ứng dụng và Lập trình
+Đây là những môn có "Tải nhận thức nội tại" cực cao, tỷ lệ rớt môn nhiều, rất phù hợp để kiểm chứng khả năng chẩn đoán lỗ hổng và phục hồi của hệ thống
+
+Người 2: Câu 6: Làm thế nào hệ thống nhận biết chính xác học sinh đang "hổng" kiến thức ở mắt xích nào để đề xuất bài học tiếp theo? 
+Người 1: Chúng em không dùng cách chấm điểm 0-10 truyền thống, mà dùng Hệ thống xếp hạng Elo đa biến (Elo Rating System) tương tự như cờ vua
+Cả học sinh và "Nút kiến thức" đều có điểm Elo
+Khi học sinh giải sai, hệ thống lập tức giảm điểm Elo và "chuyển màu đỏ" Nút kiến thức đó
+Thuật toán Dò tìm Tri thức Động (Dynamic PKT) sẽ tự động tính toán xác suất chiến thắng và chỉ đề xuất các bài tập mới ở khoảng xác suất 50%-75% để giữ học sinh trong Vùng phát triển gần (ZPD), không bị quá sức
+
+Người 2: Câu 7: Sinh viên ngày nay rất thông minh, các em có thể dùng mẹo (Prompt) để ép khung chat AI của các bạn "nhả" đáp án. Các bạn xử lý lỗ hổng này ra sao? 
+Người 1: Dạ, chúng em đã lường trước rủi ro này. Nền tảng được bảo vệ bởi một "Bộ lọc đánh chặn Socrates" (Socratic Interceptor)
+Bằng kỹ thuật Strict System Prompting (lệnh hệ thống cứng), nếu AI lỡ tạo ra một chuỗi mã code hoàn chỉnh hay đáp án cuối cùng, Interceptor sẽ lập tức chặn lại trước khi hiển thị cho người dùng và ép LLM phải tái tạo thành một câu hỏi gợi mở
+Tỷ lệ chặn đáp án ăn liền đạt mức 100%
+
+Người 2: Câu 8: Bán phần mềm (B2B) cho các trường Đại học rất khó vì họ đã có sẵn hệ thống LMS như Moodle hay Canvas. Làm sao các bạn thâm nhập được? 
+Người 1: Chiến thuật của chúng em là "Con ngựa thành Troy" – không bắt nhà trường đập bỏ LMS cũ
+Hệ thống AIEdu hoạt động như một tiện ích tích hợp (Plug-and-play) thông qua chuẩn toàn cầu LTI 1.3
+Sinh viên chỉ cần đăng nhập thẳng từ Canvas/Moodle hiện tại của trường bằng 1 cú click (SSO) và điểm số học tập sẽ tự động đồng bộ ngược lại sổ điểm của trường
+
+Người 2: Câu 9: Các bạn đo lường "BioBattery" (Sự mệt mỏi của não bộ) như thế nào nếu học sinh không hề đeo các thiết bị y tế (đồng hồ thông minh)? 
+Người 1: Nền tảng thu thập các dữ liệu vi hành vi ẩnh danh (Implicit Telemetry) ngay trên trình duyệt mà không cần thiết bị ngoại vi
+Hệ thống đo lường 3 yếu tố: (1) Tốc độ ngập ngừng khi gõ bàn phím, (2) Tần suất nhấn nút chạy code bị lỗi liên tiếp, và (3) Phân tích sắc thái ngôn từ (bực dọc, nản chí) trong khung chat với AI
+Thuật toán Bio-PKT sẽ hợp nhất các dữ liệu thô này để tính toán ra thanh năng lượng mệt mỏi theo thời gian thực
+
+Người 2: Câu 10: Trong lộ trình Phase 3, các bạn nhắc đến Marketplace. Nguồn thu ở đây đến từ đâu? 
+Người 1: Khi hệ thống đủ lớn, chúng em sẽ mở nền tảng để các chuyên gia, giáo viên giỏi trên toàn quốc tự tải tài liệu lên để vẽ "Cây Tri Thức" của riêng họ và bán khóa học
+Học sinh sẽ trả tiền để học trên các cây tri thức VIP này. AIEdu sẽ thu chiết khấu nền tảng (Take-rate) từ 15% - 25% trên mỗi lượt đăng ký
+Đây sẽ là "Hiệu ứng bánh đà" tạo ra nguồn thu nhập thụ động khổng lồ cho dự án
+
+Người 2: Câu 11: Nếu các "gã khổng lồ" như Google hay OpenAI sao chép giao diện "Cây Tri Thức" và tích hợp chatbot của họ, Hào phòng thủ (Moat) của dự án là gì? 
+Người 1: Dạ, các tập đoàn lớn có thể copy giao diện, nhưng hào phòng thủ của chúng em nằm ở Hiệu ứng Mạng lưới Dữ liệu Sinh trắc (Cognitive Telemetry Data Moat)
+Chúng em thu thập dữ liệu hành vi vi mô (tốc độ gõ, lỗi sai) để tinh chỉnh độ khó (Elo) cho từng vi-khái niệm
+Càng nhiều người dùng, Cây tri thức càng đánh giá chính xác ngưỡng kiệt sức của não bộ
+Ngoài ra, thuật toán lõi của dự án được bảo chứng lâm sàng bởi 2 nghiên cứu khoa học xuất bản năm 2026 về Khung Bio-Cybernetics, chứ không phải là giả định phòng lab
+
+Người 2: Câu 12: Trong giáo dục, rủi ro lớn nhất là AI bị "ảo giác" (Hallucination) và dạy sai kiến thức cho sinh viênCác bạn giải quyết rủi ro học thuật này thế nào? 
+Người 1: Chúng em không cho phép AI lang thang trên internet để gom nhặt thông tin
+Hệ thống sử dụng kiến trúc Strict-RAG (Truy xuất tăng cường nghiêm ngặt)
+Nghĩa là, LLM bị "nhốt" trong một hàng rào dữ liệu cục bộ – chính là các file giáo trình do trường đại học đính kèm vào Nút kiến thức
+AI bắt buộc phải trích dẫn nguồn (ví dụ: "Theo slide số 14...")Nếu sinh viên hỏi kiến thức ngoài lề, AI được lập trình để từ chối khéo léo và kéo sinh viên về đúng trọng tâm bài giảng
+
+Người 2: Câu 13: Vận hành một hệ thống AI cá nhân hóa và Đồ thị 3D liên tục như vậy sẽ "đốt" chi phí Server và API rất nhanhCác bạn kiểm soát bài toán tài chính (Burn-rate) ra sao? 
+Người 1: Để tránh việc phá sản do chi phí API LLM (từ OpenAI/Gemini), hệ thống của chúng em thiết kế theo chuẩn LLM-Agnostic (Không phụ thuộc Mô hình)
+Hệ thống có bộ định tuyến tự động chuyển đổi mô hình
+Đồng thời, ở phân khúc B2B, chúng em áp dụng chính sách Upsell: Nhà trường/Sinh viên tự chi trả chi phí API theo thực tế sử dụng (Pay-as-you-go), hoặc trả phí gói "AI Token" cố định, giúp AIEdu làm chủ hoàn toàn biên lợi nhuận
+
+Người 2: Câu 14: Thu thập chi tiết các vi hành vi, tốc độ gõ phím, biểu cảm của sinh viênDự án đối phó với rủi ro Quyền riêng tư Dữ liệu (Data Privacy) và Luật An ninh mạng như thế nào? 
+Người 1: Tôn trọng quyền riêng tư là triết lý lõi "Không gây hại" của dự án
+Chúng em áp dụng nguyên tắc Bảo mật từ trong thiết kế: 100% dữ liệu Telemetry được ẩn danh hóa (Anonymized) ngay tại trình duyệt máy khách (Client-side) trước khi gửi về máy chủ
+Hệ thống phân tích kiệt sức (Bio-PKT) chỉ nhận được một chuỗi mã ID (Ví dụ: User_A94B), hoàn toàn không gắn với email hay tên thật, đảm bảo tuân thủ tuyệt đối các đạo luật khắt khe như GDPR
+
+Người 2: Câu 15: Các trường Đại học bị áp lực rất lớn bởi các đợt Kiểm định chất lượng (như AUN-QA, ABET)Hệ thống của bạn hỗ trợ họ bài toán này như thế nào để họ quyết định mua? 
+Người 1: Đây chính là "vũ khí chốt sale" của chúng em
+Các chuẩn kiểm định yêu cầu nhà trường phải chứng minh sinh viên đạt Chuẩn đầu ra (CLOs) như thế nào
+Hệ thống AIEdu tự động ghi nhận mọi dấu chân điện tử theo chuẩn xAPI và xuất báo cáo tự động (1-click)
+Ban Giám hiệu sẽ có ngay minh chứng số hóa không thể làm giả về việc sinh viên đã đi qua hành trình nào để đạt chuẩn, và nhà trường đã có biện pháp gì (qua BioBattery) để bảo vệ sức khỏe tâm lý người học
 
